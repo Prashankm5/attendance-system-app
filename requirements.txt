@@ -1,10 +1,10 @@
-av==10.0.0
-insightface==0.7.3
+av
+insightface
 numpy
-opencv_python==4.8.0.74
-opencv_python_headless==4.8.0.74
+opencv_python
+opencv_python_headless
 pandas
-redis==4.6.0
+redis
 scikit_learn
 streamlit
 streamlit_webrtc
